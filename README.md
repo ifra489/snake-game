@@ -42,6 +42,20 @@ snake-game/
 
 ---
 
+## Screenshot
+
+![Desktop Screenshot](screenshot12.png)
+![Desktop Screenshot](screenshot12.png)
+![Desktop Screenshot](screenshot12.png)
+![Desktop Screenshot](screenshot12.png)
+
+---
+
+## Live Preview
+
+https://gamsnake.netlify.app/
+
+---
 ## **How to Run Locally**
 
 1. Clone this repository:
