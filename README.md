@@ -44,10 +44,10 @@ snake-game/
 
 ## Screenshot
 
-![Desktop Screenshot](screenshot12.png)
-![Desktop Screenshot](screenshot12.png)
-![Desktop Screenshot](screenshot12.png)
-![Desktop Screenshot](screenshot12.png)
+![Desktop Screenshot](screenshot19.png)
+![Desktop Screenshot](screenshot20.png)
+![Desktop Screenshot](screenshot21.png)
+![Desktop Screenshot](screenshot22.png)
 
 ---
 
